@@ -2371,6 +2371,7 @@ name = "try_rust_ggez"
 version = "0.1.0"
 dependencies = [
  "ggez",
+ "glam",
 ]
 
 [[package]]
